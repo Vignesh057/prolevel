@@ -7,8 +7,6 @@ int main(){
 		scanf("%d",&n);        
 		 noc=2*n;
 		nod=noc-1;
-		     
-		  /* Assigning the name for each child */
 		    for(i=0;i<noc;i++)
 		       	{
 				name[i]=a;
